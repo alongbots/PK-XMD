@@ -22,7 +22,7 @@ STICKER_NAME: process.env.STICKER_NAME || "ALONG",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "918731810311",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "917005972085",
 OWNER_NAME: process.env.OWNER_NAME || "ALONG",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ALONG*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/fgiecg.jpg",
@@ -43,5 +43,5 @@ DEV: process.env.DEV || "918731810311",
 ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
-ANTICALL: process.env.ANTICALL || "true"
+ANTICALL: process.env.ANTICALL || "false"
 };
